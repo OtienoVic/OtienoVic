@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OtienoVic
 - 👀 I’m interested in Cybersecurity and Computer Networks
-- 🌱 I’m currently learning Software Engineering With ALX SE program
+- 🌱 I’m currently learning Software Engineering With the ALX Software Engineering program
 - 💞️ I’m looking to collaborate in Learning projects
 - 📫 How to reach me "Victor O" on twitter
 
